@@ -19,5 +19,5 @@
 В момента активно се подготвям за кандидатстване за **C++ Game Programmer Intern** в Gameloft Sofia. Проявявам голям интерес към писането на чист, оптимизиран код и нисконивовото програмиране.
 
 ## 📬 Контакти
-* **LinkedIn:** [Твоят профил тук]
-* **Email:** [Твоят имейл тук]
+* **LinkedIn:** https://www.linkedin.com/in/%D0%B7%D0%BB%D0%B0%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%BF%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2-0805a5449/
+* **Email:** zlati.varna.bg@gmail.com
