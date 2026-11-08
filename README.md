@@ -13,7 +13,7 @@
 
 * **[🃏 Santase Card Game](https://github.com/Zlatislav06/Project_Sentese-66)** — Конзолна реализация на българската игра на карти „Сантасе“ (66) на C++, с имплементирани пълни правила и управление на състоянията на играта.
 * **[⚔️ RPG Text-Based Battler](https://github.com/Zlatislav06/Project_RPG_Battler)** — C++ конзолна ролева игра с поредова бойна система, класове от герои, формули за баланс на щетите и фокус върху управлението на паметта.
-* **[🎓 FMI Semester Projects](https://github.com/Zlatislav06/FMI-UP-Semester-1-CPP)** — Колекция от академични проекти и задачи от следването ми, демонстриращи напредък в ООП и C++ структури.
+* **[🎓 FMI Semester Projects](https://github.com/Zlatislav06/FMI-UP-Semester-2-CPP)** — Колекция от академични проекти и задачи от следването ми, демонстриращи напредък в ООП и C++ структури.
 
 
 ## 📈 Моите цели
