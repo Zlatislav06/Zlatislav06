@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3b0000,50:7a0000,100:b30000&customColorList=18,20,22,24&text=Златислав%20Пантелеев&fontSize=65&fontAlign=50&fontAlignY=38&desc=Програмист%20%7C%20Трета%20степен&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
 <hr style="border: 1px solid #6a0dad; width: 50%;">
-
+</div>
 
 # Здравейте, аз съм Златислав! 👋
 
