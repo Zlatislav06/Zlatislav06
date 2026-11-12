@@ -1,15 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=18,20,22,24&text=Katerina%20Dimitrova&fontSize=65&fontAlign=50&fontAlignY=38&desc=Creative%20Developer%20%7C%20Future%20Engineer&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
-<img src="https://komarev.com/ghpvc/?username=cathy-09&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
-<img src="https://img.shields.io/github/followers/cathy-09?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github&v=1" />
-<a href="mailto:dimitrovakaterina780@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-MAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
-<br>
-<br>
-<div align="center">
-> **“Code is art with logic behind it.”**
 </div>
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
