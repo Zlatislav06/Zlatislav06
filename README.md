@@ -1,7 +1,19 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:800000,50:d32f2f,100:ff5252&text=Златислав%20Пантелеев&fontSize=65&fontAlign=50&fontAlignY=38&desc=Прогромист%20%7C%20Трета%20степен&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
+  <img src="https://vercel.app
+  &height=260
+  &color=0:3b0000,50:7a0000,100:b30000
+  &text=Златислав%20Пантелеев
+  &fontColor=ffffff
+  &desc=Програмист%20%7C%20Трета%20степен
+  &descFontColor=ffffff
+  &fontSize=65
+  &fontAlign=50
+  &fontAlignY=38
+  &descAlign=50
+  &descAlignY=63
+  &animation=fadeIn" width="100%" />
 </div>
-<hr style="border: 1px solid #6a0dad; width: 50%;">
+<hr style="border: 1px solid #8b0000; width: 50%;">
 
 # Здравейте, аз съм Златислав! 👋
 
